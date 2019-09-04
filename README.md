@@ -1,2 +1,2 @@
-# Collection-Of-Ingrediant-data-from-Tarla_dala-recipe-site.
-this Code is capable of extracting the All the cuisine from the site.
+# Collection-Of-Ingrediant-data-Web Scraping.
+this Code is capable of extracting the All the cuisine from the site.as well as there is nominal analysis of the following thing 
